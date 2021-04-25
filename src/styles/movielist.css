@@ -1,0 +1,30 @@
+#movieList {
+    margin-top: 32px;
+    width: 100%;
+    padding-bottom: 60px;
+}
+
+.placeholder {
+    font-weight: bolder;
+    font-size: 20px;
+    color: white;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding-bottom: 60px;
+}
+
+.poster {
+    height: 430px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.movie-info {
+    color: white;
+    background-color: #808080;
+    background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
+    height: 185px;
+    text-align: center;
+}
